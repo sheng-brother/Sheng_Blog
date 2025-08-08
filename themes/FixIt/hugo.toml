@@ -295,7 +295,7 @@ mainSections = []
 # taxonomy = ["html"]
 # term = ["html", "rss"]
 [outputs]
-  home = ["html", "rss", "archives", "offline", "search","json"]
+  home = ["html", "rss", "archives", "offline", "search"]
   page = ["html", "markdown"]
   section = ["html", "rss"]
   taxonomy = ["html"]
@@ -412,7 +412,7 @@ mainSections = []
       # FixIt 0.2.17 | NEW https://fusejs.io/api/options.html
       isCaseSensitive = false
       minMatchCharLength = 2
-      findAllMatches = false
+      findAllMatches = true
       location = 0
       threshold = 0.3
       distance = 100
