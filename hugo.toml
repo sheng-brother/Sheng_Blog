@@ -3,3 +3,6 @@ languageCode = 'zh-CN'
 title = "Sheng's Blog"
 theme = 'FixIt'
 defaultContentLanguage = 'zh-cn'
+
+[outputs]
+  home = ["html", "rss", "archives", "offline", "search"]
