@@ -2,7 +2,7 @@
 title: Index
 subtitle:
 date: 2025-08-08T12:51:29+08:00
-slug: fa8fbc5
+slug: index
 draft: false
 description:
 keywords:
